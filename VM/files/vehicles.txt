@@ -1,0 +1,5 @@
+V001,Car,Toyota,Corolla,2012,20.00,true,20
+V002,Bike,Yamaha,FZ,2019424,20.00,false,0
+V003,Truck,Ford,F-150,2018,80.00,true,1
+V004,BYD,asdfad,fasdsd,2001,43.00,true,1
+V005,Truck,Cino,RED,2012,23.00,true,1
